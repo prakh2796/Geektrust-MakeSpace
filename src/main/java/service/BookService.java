@@ -3,7 +3,6 @@ package service;
 import dto.BookDto;
 import dto.RoomDto;
 import enums.RuleType;
-import exception.CustomException;
 
 import java.util.List;
 

@@ -3,8 +3,6 @@ package service;
 import dto.BookDto;
 import dto.SlotDto;
 import dto.RoomDto;
-import exception.CustomException;
-import utils.BookUtils;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
