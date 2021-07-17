@@ -25,7 +25,7 @@ Buffer Time - Buffer time is the time used to clean up the meeting room. It happ
 6. No meetings can be scheduled during the buffer time. If the booking time overlaps with the buffer time NO_VACANT_ROOM should be printed.
 7. Time input should follow HH:MM format (24 hours format). If an incorrect time input is provided then INCORRECT_INPUT should be printed.
 
-##Input Details
+## Input Details
 #### 1. Book Meeting Room
 As a co-working space customer, I shall schedule a meeting by giving a time period and capacity requirement.<br />
 Format - BOOK <start_time(inclusive)> <end_time(exclusive)> <person_capacity><br />
