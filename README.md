@@ -51,7 +51,9 @@ Output: C-Cave G-Mansion
 ## How to run the application
 1. Clone the project to your local system.
 2. Go to project directory and run `mvn clean install`.
-3. Run `java -jar geektrust.jar <path_to_input_file>`
+3. Go to `<path_to_project_directory>/target` and run `java -jar geektrust.jar <path_to_input_file>`
+
+Sample input files attached under `./resources`.
 
 ## Sample Input-Output
 | INPUT               | OUTPUT                   |
